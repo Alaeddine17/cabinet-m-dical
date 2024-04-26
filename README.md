@@ -22,3 +22,6 @@ Crystal Reports is a versatile reporting tool that allows users to design, gener
 -Microsoft Access: Your Gateway to Database Management
 
 Microsoft Access is a powerful database management tool that allows users to store, organize, and retrieve data with ease. With its user-friendly interface and customizable templates, Access empowers individuals and businesses to create and manage databases without requiring extensive programming knowledge.
+
+<h2>📜 License</h2>
+This project is open-source under the MIT License.
