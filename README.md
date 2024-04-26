@@ -11,3 +11,14 @@ With Mediciel, managing patient appointments has never been easier. Our intuitiv
 Say goodbye to cumbersome paper records and embrace the efficiency of electronic health records with Mediciel. Our EHR module enables healthcare providers to securely access patient information, including medical history, diagnoses, medications, and treatment plans, all in one centralized location. With customizable templates and seamless integration with clinical workflows, MediEase simplifies documentation, improves accuracy, and enhances patient safety.
 
 <h2> 🔧 Built With </h2>
+- Visual Basic: Simplified Programming for Windows Applications
+
+Visual Basic (VB) is a user-friendly programming language and development environment designed to create Windows applications with ease. With its intuitive syntax and drag-and-drop interface, VB empowers both beginner and experienced developers to build graphical user interfaces, manage data, and automate tasks efficiently. Whether you're creating simple desktop utilities or complex business applications, Visual Basic provides the tools and flexibility to bring your ideas to life quickly and effectively.
+
+-Crystal Reports: Powerful Reporting Made Easy
+
+Crystal Reports is a versatile reporting tool that allows users to design, generate, and distribute dynamic reports quickly and efficiently. With its intuitive interface and robust functionality, Crystal Reports enables businesses to extract valuable insights from their data and present them in a clear, visually appealing format. Whether you need to create simple sales reports or complex financial statements, Crystal Reports provides the flexibility and scalability to meet your reporting needs. From data visualization to report scheduling and distribution
+
+-Microsoft Access: Your Gateway to Database Management
+
+Microsoft Access is a powerful database management tool that allows users to store, organize, and retrieve data with ease. With its user-friendly interface and customizable templates, Access empowers individuals and businesses to create and manage databases without requiring extensive programming knowledge.
