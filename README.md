@@ -25,3 +25,8 @@ Microsoft Access is a powerful database management tool that allows users to sto
 
 <h2>📜 License</h2>
 This project is open-source under the MIT License.
+
+<h2>🛠️ Local Setup You can set up this project locally by:</h2>
+Using HTTPS git clone https://github.com/Alaeddine17/tolina.git
+
+Tolina preview
