@@ -27,6 +27,6 @@ Microsoft Access is a powerful database management tool that allows users to sto
 This project is open-source under the MIT License.
 
 <h2>🛠️ Local Setup You can set up this project locally by:</h2>
-Using HTTPS git clone https://github.com/Alaeddine17/tolina.git
+Using HTTPS git clone https://github.com/Alaeddine17/cabinet-medical.git
 
-Tolina preview
+<h1> preview </h1>
