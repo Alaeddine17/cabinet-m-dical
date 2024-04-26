@@ -30,4 +30,4 @@ This project is open-source under the MIT License.
 Using HTTPS git clone https://github.com/Alaeddine17/cabinet-medical.git
 
 <h1> preview </h1>
-![cab-1](https://github.com/Alaeddine17/cabinet-medical/assets/71473009/d1eaa331-872e-40c2-b08a-123fdcfc2ddc)
+(https://github.com/Alaeddine17/cabinet-medical/assets/71473009/d1eaa331-872e-40c2-b08a-123fdcfc2ddc)
