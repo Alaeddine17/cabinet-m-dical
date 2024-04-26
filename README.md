@@ -30,10 +30,4 @@ This project is open-source under the MIT License.
 Using HTTPS git clone https://github.com/Alaeddine17/cabinet-medical.git
 
 <h1> preview </h1>
-![cab-1](https://github.com/Alaeddine17/cabinet-medical/assets/71473009/12e09a42-e953-4676-b547-c8889e70dd65)
-![cab-7](https://github.com/Alaeddine17/cabinet-medical/assets/71473009/3a97cd42-b8ac-4edc-98e1-0e06fccf6780)
-![cab-6](https://github.com/Alaeddine17/cabinet-medical/assets/71473009/a599e558-52b2-498b-a64f-fa9e79582cea)
-![cab-5](https://github.com/Alaeddine17/cabinet-medical/assets/71473009/30247f33-61ec-45d1-9aad-f6acf3fb874f)
-![cab-4](https://github.com/Alaeddine17/cabinet-medical/assets/71473009/d8c8bcfb-c60c-426c-818a-d5eda8525dce)
-![cab-3](https://github.com/Alaeddine17/cabinet-medical/assets/71473009/3bc1c939-cff7-40fe-b1a1-051a8954ec0c)
-![cab-2](https://github.com/Alaeddine17/cabinet-medical/assets/71473009/6256ccca-994a-4297-9d69-81ca22e79bbe)
+![cab-1](https://github.com/Alaeddine17/cabinet-medical/assets/71473009/d1eaa331-872e-40c2-b08a-123fdcfc2ddc)
