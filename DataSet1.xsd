@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet1" targetNamespace="http://tempuri.org/DataSet1.xsd" xmlns:mstns="http://tempuri.org/DataSet1.xsd" xmlns="http://tempuri.org/DataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSet1" msprop:Generator_UserDSName="DataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTable1" msprop:Generator_TableClassName="DataTable1DataTable" msprop:Generator_TableVarName="tableDataTable1" msprop:Generator_RowChangedName="DataTable1RowChanged" msprop:Generator_TablePropName="DataTable1" msprop:Generator_RowDeletingName="DataTable1RowDeleting" msprop:Generator_RowChangingName="DataTable1RowChanging" msprop:Generator_RowEvHandlerName="DataTable1RowChangeEventHandler" msprop:Generator_RowDeletedName="DataTable1RowDeleted" msprop:Generator_RowClassName="DataTable1Row" msprop:Generator_UserTableName="DataTable1" msprop:Generator_RowEvArgName="DataTable1RowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Ordonnance_x0020_N_x00B0_" msprop:Generator_ColumnVarNameInTable="_columnOrdonnance_N_" msprop:Generator_ColumnPropNameInRow="_Ordonnance_N_" msprop:Generator_ColumnPropNameInTable="_Ordonnance_N_Column" msprop:Generator_UserColumnName="Ordonnance N°" type="xs:string" minOccurs="0" />
+              <xs:element name="Docteur" msprop:Generator_ColumnVarNameInTable="columnDocteur" msprop:Generator_ColumnPropNameInRow="Docteur" msprop:Generator_ColumnPropNameInTable="DocteurColumn" msprop:Generator_UserColumnName="Docteur" type="xs:string" minOccurs="0" />
+              <xs:element name="Nom_x0020_de_x0020_patient" msprop:Generator_ColumnVarNameInTable="columnNom_de_patient" msprop:Generator_ColumnPropNameInRow="Nom_de_patient" msprop:Generator_ColumnPropNameInTable="Nom_de_patientColumn" msprop:Generator_UserColumnName="Nom de patient" type="xs:string" minOccurs="0" />
+              <xs:element name="Médicament_x0020_1" msprop:Generator_ColumnVarNameInTable="columnMédicament_1" msprop:Generator_ColumnPropNameInRow="Médicament_1" msprop:Generator_ColumnPropNameInTable="Médicament_1Column" msprop:Generator_UserColumnName="Médicament 1" type="xs:string" minOccurs="0" />
+              <xs:element name="Médicament_x0020_2" msprop:Generator_ColumnVarNameInTable="columnMédicament_2" msprop:Generator_ColumnPropNameInRow="Médicament_2" msprop:Generator_ColumnPropNameInTable="Médicament_2Column" msprop:Generator_UserColumnName="Médicament 2" type="xs:string" minOccurs="0" />
+              <xs:element name="Médicament_x0020_3" msprop:Generator_ColumnVarNameInTable="columnMédicament_3" msprop:Generator_ColumnPropNameInRow="Médicament_3" msprop:Generator_ColumnPropNameInTable="Médicament_3Column" msprop:Generator_UserColumnName="Médicament 3" type="xs:string" minOccurs="0" />
+              <xs:element name="Médicament_x0020_4" msprop:Generator_ColumnVarNameInTable="columnMédicament_4" msprop:Generator_ColumnPropNameInRow="Médicament_4" msprop:Generator_ColumnPropNameInTable="Médicament_4Column" msprop:Generator_UserColumnName="Médicament 4" type="xs:string" minOccurs="0" />
+              <xs:element name="Unité_x0020_par_x0020_jour_x0020_1" msprop:Generator_ColumnVarNameInTable="columnUnité_par_jour_1" msprop:Generator_ColumnPropNameInRow="Unité_par_jour_1" msprop:Generator_ColumnPropNameInTable="Unité_par_jour_1Column" msprop:Generator_UserColumnName="Unité par jour 1" type="xs:string" minOccurs="0" />
+              <xs:element name="Unité_x0020_par_x0020_jour_x0020_2" msprop:Generator_ColumnVarNameInTable="columnUnité_par_jour_2" msprop:Generator_ColumnPropNameInRow="Unité_par_jour_2" msprop:Generator_ColumnPropNameInTable="Unité_par_jour_2Column" msprop:Generator_UserColumnName="Unité par jour 2" type="xs:string" minOccurs="0" />
+              <xs:element name="Unité_x0020_par_x0020_jour_x0020_3" msprop:Generator_ColumnVarNameInTable="columnUnité_par_jour_3" msprop:Generator_ColumnPropNameInRow="Unité_par_jour_3" msprop:Generator_ColumnPropNameInTable="Unité_par_jour_3Column" msprop:Generator_UserColumnName="Unité par jour 3" type="xs:string" minOccurs="0" />
+              <xs:element name="Unité_x0020_par_x0020_jour_x0020_4" msprop:Generator_ColumnVarNameInTable="columnUnité_par_jour_4" msprop:Generator_ColumnPropNameInRow="Unité_par_jour_4" msprop:Generator_ColumnPropNameInTable="Unité_par_jour_4Column" msprop:Generator_UserColumnName="Unité par jour 4" type="xs:string" minOccurs="0" />
+              <xs:element name="Prénom_x0020_de_x0020_patient" msprop:Generator_ColumnVarNameInTable="columnPrénom_de_patient" msprop:Generator_ColumnPropNameInRow="Prénom_de_patient" msprop:Generator_ColumnPropNameInTable="Prénom_de_patientColumn" msprop:Generator_UserColumnName="Prénom de patient" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

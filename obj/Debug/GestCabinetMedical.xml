@@ -1,0 +1,291 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+GestCabinetMedical
+</name>
+</assembly>
+<members>
+<member name="T:GestCabinetMedical.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:GestCabinetMedical.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:GestCabinetMedical.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:GestCabinetMedical.CabinetDBDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:GestCabinetMedical.CabinetDBDataSet.T_ConsultationDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GestCabinetMedical.CabinetDBDataSet.T_ContientDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GestCabinetMedical.CabinetDBDataSet.T_DiagnosticDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GestCabinetMedical.CabinetDBDataSet.T_MedecinDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GestCabinetMedical.CabinetDBDataSet.T_MedicamentDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GestCabinetMedical.CabinetDBDataSet.T_OrdonnanceDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GestCabinetMedical.CabinetDBDataSet.T_PathologieDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GestCabinetMedical.CabinetDBDataSet.T_PatientDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GestCabinetMedical.CabinetDBDataSet.T_TraiterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GestCabinetMedical.CabinetDBDataSet.T_ConsultationRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GestCabinetMedical.CabinetDBDataSet.T_ContientRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GestCabinetMedical.CabinetDBDataSet.T_DiagnosticRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GestCabinetMedical.CabinetDBDataSet.T_MedecinRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GestCabinetMedical.CabinetDBDataSet.T_MedicamentRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GestCabinetMedical.CabinetDBDataSet.T_OrdonnanceRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GestCabinetMedical.CabinetDBDataSet.T_PathologieRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GestCabinetMedical.CabinetDBDataSet.T_PatientRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GestCabinetMedical.CabinetDBDataSet.T_TraiterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GestCabinetMedical.CabinetDBDataSet.T_ConsultationRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GestCabinetMedical.CabinetDBDataSet.T_ContientRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GestCabinetMedical.CabinetDBDataSet.T_DiagnosticRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GestCabinetMedical.CabinetDBDataSet.T_MedecinRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GestCabinetMedical.CabinetDBDataSet.T_MedicamentRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GestCabinetMedical.CabinetDBDataSet.T_OrdonnanceRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GestCabinetMedical.CabinetDBDataSet.T_PathologieRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GestCabinetMedical.CabinetDBDataSet.T_PatientRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GestCabinetMedical.CabinetDBDataSet.T_TraiterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GestCabinetMedical.CabinetDBDataSetTableAdapters.T_ConsultationTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GestCabinetMedical.CabinetDBDataSetTableAdapters.T_ContientTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GestCabinetMedical.CabinetDBDataSetTableAdapters.T_DiagnosticTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GestCabinetMedical.CabinetDBDataSetTableAdapters.T_MedecinTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GestCabinetMedical.CabinetDBDataSetTableAdapters.T_MedicamentTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GestCabinetMedical.CabinetDBDataSetTableAdapters.T_OrdonnanceTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GestCabinetMedical.CabinetDBDataSetTableAdapters.T_PathologieTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GestCabinetMedical.CabinetDBDataSetTableAdapters.T_PatientTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GestCabinetMedical.CabinetDBDataSetTableAdapters.T_TraiterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GestCabinetMedical.CabinetDBDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:GestCabinetMedical.CabinetDBDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(GestCabinetMedical.CabinetDBDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:GestCabinetMedical.CabinetDBDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(GestCabinetMedical.CabinetDBDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:GestCabinetMedical.CabinetDBDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(GestCabinetMedical.CabinetDBDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:GestCabinetMedical.CabinetDBDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:GestCabinetMedical.CabinetDBDataSetTableAdapters.TableAdapterManager.UpdateAll(GestCabinetMedical.CabinetDBDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:GestCabinetMedical.CabinetDBDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:GestCabinetMedical.CabinetDBDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:GestCabinetMedical.DataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:GestCabinetMedical.DataSet1.DataTable1DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GestCabinetMedical.DataSet1.DataTable1Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GestCabinetMedical.DataSet1.DataTable1RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GestCabinetMedical.DataSetConst">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:GestCabinetMedical.DataSetConst.DataTable1DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GestCabinetMedical.DataSetConst.DataTable1Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GestCabinetMedical.DataSetConst.DataTable1RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+</members>
+</doc>

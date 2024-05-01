@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSetConst" targetNamespace="http://tempuri.org/DataSetConst.xsd" xmlns:mstns="http://tempuri.org/DataSetConst.xsd" xmlns="http://tempuri.org/DataSetConst.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSetConst" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSetConst" msprop:Generator_UserDSName="DataSetConst">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTable1" msprop:Generator_TableClassName="DataTable1DataTable" msprop:Generator_TableVarName="tableDataTable1" msprop:Generator_RowChangedName="DataTable1RowChanged" msprop:Generator_TablePropName="DataTable1" msprop:Generator_RowDeletingName="DataTable1RowDeleting" msprop:Generator_RowChangingName="DataTable1RowChanging" msprop:Generator_RowEvHandlerName="DataTable1RowChangeEventHandler" msprop:Generator_RowDeletedName="DataTable1RowDeleted" msprop:Generator_RowClassName="DataTable1Row" msprop:Generator_UserTableName="DataTable1" msprop:Generator_RowEvArgName="DataTable1RowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Consultation_x0020_N_x00B0_" msprop:Generator_ColumnVarNameInTable="_columnConsultation_N_" msprop:Generator_ColumnPropNameInRow="_Consultation_N_" msprop:Generator_ColumnPropNameInTable="_Consultation_N_Column" msprop:Generator_UserColumnName="Consultation N°" type="xs:string" minOccurs="0" />
+              <xs:element name="Docteur" msprop:Generator_ColumnVarNameInTable="columnDocteur" msprop:Generator_ColumnPropNameInRow="Docteur" msprop:Generator_ColumnPropNameInTable="DocteurColumn" msprop:Generator_UserColumnName="Docteur" type="xs:string" minOccurs="0" />
+              <xs:element name="Nom_x0020_de_x0020_patient" msprop:Generator_ColumnVarNameInTable="columnNom_de_patient" msprop:Generator_ColumnPropNameInRow="Nom_de_patient" msprop:Generator_ColumnPropNameInTable="Nom_de_patientColumn" msprop:Generator_UserColumnName="Nom de patient" type="xs:string" minOccurs="0" />
+              <xs:element name="Prénom_x0020_de_x0020_patient" msprop:Generator_ColumnVarNameInTable="columnPrénom_de_patient" msprop:Generator_ColumnPropNameInRow="Prénom_de_patient" msprop:Generator_ColumnPropNameInTable="Prénom_de_patientColumn" msprop:Generator_UserColumnName="Prénom de patient" type="xs:string" minOccurs="0" />
+              <xs:element name="Etat_x0020_santé_x0020_de_x0020_patient" msprop:Generator_ColumnVarNameInTable="columnEtat_santé_de_patient" msprop:Generator_ColumnPropNameInRow="Etat_santé_de_patient" msprop:Generator_ColumnPropNameInTable="Etat_santé_de_patientColumn" msprop:Generator_UserColumnName="Etat santé de patient" type="xs:string" minOccurs="0" />
+              <xs:element name="Type_x0020_de_x0020_consultation" msprop:Generator_ColumnVarNameInTable="columnType_de_consultation" msprop:Generator_ColumnPropNameInRow="Type_de_consultation" msprop:Generator_ColumnPropNameInTable="Type_de_consultationColumn" msprop:Generator_UserColumnName="Type de consultation" type="xs:string" minOccurs="0" />
+              <xs:element name="Prix_x0020_de_x0020_consultation" msprop:Generator_ColumnVarNameInTable="columnPrix_de_consultation" msprop:Generator_ColumnPropNameInRow="Prix_de_consultation" msprop:Generator_ColumnPropNameInTable="Prix_de_consultationColumn" msprop:Generator_UserColumnName="Prix de consultation" type="xs:string" minOccurs="0" />
+              <xs:element name="Détection_x0020_des_x0020_maladies" msprop:Generator_ColumnVarNameInTable="columnDétection_des_maladies" msprop:Generator_ColumnPropNameInRow="Détection_des_maladies" msprop:Generator_ColumnPropNameInTable="Détection_des_maladiesColumn" msprop:Generator_UserColumnName="Détection des maladies" type="xs:string" minOccurs="0" />
+              <xs:element name="Date_x0020_de_x0020_consultation" msprop:Generator_ColumnVarNameInTable="columnDate_de_consultation" msprop:Generator_ColumnPropNameInRow="Date_de_consultation" msprop:Generator_ColumnPropNameInTable="Date_de_consultationColumn" msprop:Generator_UserColumnName="Date de consultation" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
